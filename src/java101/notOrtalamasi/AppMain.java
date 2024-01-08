@@ -3,6 +3,8 @@ package java101.notOrtalamasi;
 import java.util.Scanner;
 
 public class AppMain {
+    // if else yapısı kullanılmadan
+
     public static void main(String[] args) {
         int mat,fizik,kimya,turkce,tarih,muzik;
 
