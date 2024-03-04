@@ -1,4 +1,4 @@
-package java101.manavKasaProgramı;
+package java101.manavKasaProgrami;
 /**
  * @author Ali Güneş
  * @since march 04 2024
